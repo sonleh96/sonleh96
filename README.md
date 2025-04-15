@@ -3,7 +3,6 @@
 ## I'm Son, a Data Scientist 📊 by ☀️ and an AI Enthusiast 🤖 by 🌙 
 
 I studied Mechanical Engineering, accidentally stumbled into Data Science, and currently obsessed with AI.
-I organize my projects here.
 
 ### I work as a
 Data Scientist / Computer Vision Engineer at the [Asian Development Bank](https://www.adb.org/)<br>
