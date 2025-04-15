@@ -29,7 +29,7 @@ Data Science Consultant at [The World Bank](https://www.worldbank.org/ext/en/hom
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
-### 💻 Platforms: 
+### ☁︎ Platforms: 
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
