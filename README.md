@@ -19,7 +19,7 @@ Data Science Consultant at [The World Bank](https://www.worldbank.org/ext/en/hom
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/🤗%20HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/%20HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4D28?logo=xgboost&logoColor=white&style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-026664?logo=leaflet&logoColor=white&style=for-the-badge)
 
