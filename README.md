@@ -5,7 +5,7 @@
 I studied Mechanical Engineering, accidentally stumbled into Data Science, and currently obsessed with AI.
 I organize my projects here.
 
-## Profession
+### I work as a
 Data Scientist / Computer Vision Engineer at the [Asian Development Bank](https://www.adb.org/)
 Data Science Consultant at [The World Bank](https://www.worldbank.org/ext/en/home)
 
